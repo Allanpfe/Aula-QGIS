@@ -1,0 +1,10 @@
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND0.tif?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND0.xml?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND1.tif?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND1.xml?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND2.tif?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND2.xml?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND3.tif?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND3.xml?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND4.tif?email=allanpfe@gmail.com 
+https://www.dgi.inpe.br/api/download/TIFF/CBERS4A/2024_08/CBERS_4A_WPM_RAW_2024_08_19.13_07_12_ETC2/198_142_0/4_BC_UTM_WGS84/CBERS_4A_WPM_20240819_198_142_L4_BAND4.xml?email=allanpfe@gmail.com 
